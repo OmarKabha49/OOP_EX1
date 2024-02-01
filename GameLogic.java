@@ -104,7 +104,6 @@ public class GameLogic implements PlayableLogic{
                 j++;
                 break;
             }
-            break;
         }
 
     }
